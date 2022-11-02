@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula9</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAtsGTatp51nUZ_gE-83231jWq4i8dKtwI</string>
+</resources>
